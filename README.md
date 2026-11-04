@@ -1,6 +1,6 @@
 ```mermaid
 classDiagram
-  class HasMenu (interface) {
+  class HasMenu {
       +menu() String
       +start() void
   }
